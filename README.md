@@ -2,7 +2,8 @@
 - 👀 I’m interested in travelling and programming!
 - 🌱 I’m currently learning to programming with C#
 - 📫 How to reach me https://www.facebook.com/kristiqn.georgiev.18/?locale=bg_BG
-- 😄 Pronouns: Chris
+- 😄 Languages: C#, HTML, CSS
+- 👀 Hobby: QA
 
 <!---
 KristiyanGeorgiev1996/KristiyanGeorgiev1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
