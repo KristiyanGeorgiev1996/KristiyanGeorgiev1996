@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @KristiyanGeorgiev1996
 
 - 👀 I’m interested in **travelling and programming!**
-- 🌱 I’m currently learning **C#**
-- 😄 Languages: **C#, HTML, CSS**
+- 🌱 I’m currently learning **C#** and **QA**
+- 😄 Languages: **C#, HTML, CSS, JavaScript**
 - 🎯 Hobby: **QA Testing**
 - 📫 How to reach me: [Facebook](https://www.facebook.com/kristiqn.georgiev.18/?locale=bg_BG)
 
