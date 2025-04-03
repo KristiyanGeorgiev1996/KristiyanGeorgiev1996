@@ -10,33 +10,31 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KristiyanGeorgiev1996&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanGeorgiev1996&layout=compact&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=KristiyanGeorgiev1996&theme=radical" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KristiyanGeorgiev1996&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanGeorgiev1996&layout=compact&hide_border=true&theme=transparent" />
+  <img height="150" src="https://streak-stats.demolab.com?user=KristiyanGeorgiev1996&hide_border=true&theme=transparent" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements  
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KristiyanGeorgiev1996&theme=onedark&no-frame=true&margin-w=5)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KristiyanGeorgiev1996&theme=flat&no-frame=true&margin-w=5" />
+</p>
 
 ---
 
 ## 🔗 Connect with Me  
 
-[![GitHub Followers](https://img.shields.io/github/followers/KristiyanGeorgiev1996?style=social)](https://github.com/KristiyanGeorgiev1996)  
-[![Facebook](https://img.shields.io/badge/Facebook-KristiyanGeorgiev1996-blue?logo=facebook)](https://www.facebook.com/kristiqn.georgiev.18)
+<p align="center">
+  <a href="https://github.com/KristiyanGeorgiev1996">
+    <img src="https://img.shields.io/github/followers/KristiyanGeorgiev1996?style=social" />
+  </a>
+  <a href="https://www.facebook.com/kristiqn.georgiev.18">
+    <img src="https://img.shields.io/badge/Facebook-KristiyanGeorgiev1996-blue?logo=facebook" />
+  </a>
+</p>
 
 ---
