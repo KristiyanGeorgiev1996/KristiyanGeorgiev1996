@@ -34,12 +34,6 @@
 
 ---
 
-## 🐍 Watch my contributions grow!  
-
-![Snake animation](https://github.com/KristiyanGeorgiev1996/KristiyanGeorgiev1996/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🔗 Connect with Me  
 
 [![GitHub Followers](https://img.shields.io/github/followers/KristiyanGeorgiev1996?style=social)](https://github.com/KristiyanGeorgiev1996)  
