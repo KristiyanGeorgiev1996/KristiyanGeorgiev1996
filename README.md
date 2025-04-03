@@ -19,6 +19,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanGeorgiev1996&layout=compact&theme=radical" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=KristiyanGeorgiev1996&theme=radical" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -26,12 +31,6 @@
 ## 🏆 GitHub Achievements  
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KristiyanGeorgiev1996&theme=onedark&no-frame=true&margin-w=5)
-
----
-
-## 🔥 GitHub Streak  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KristiyanGeorgiev1996&theme=radical)
 
 ---
 
