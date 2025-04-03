@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @KristiyanGeorgiev1996
+# 👋 Hi, I’m Kristiyan Georgiev! 
 
 - 👀 I’m interested in **travelling and programming!**
 - 🌱 I’m currently learning **C#** and **QA**
