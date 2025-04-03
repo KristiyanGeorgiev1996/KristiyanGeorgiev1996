@@ -11,9 +11,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=KristiyanGeorgiev1996&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanGeorgiev1996&layout=compact&hide_border=true&theme=transparent" />
-  <img width="32%" src="https://streak-stats.demolab.com?user=KristiyanGeorgiev1996&hide_border=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KristiyanGeorgiev1996&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanGeorgiev1996&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=KristiyanGeorgiev1996&hide_border=true&theme=transparent" />
 </p>
 
 ---
